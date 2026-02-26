@@ -175,3 +175,28 @@ If you like this project, please ⭐ the repository to support the work!
 
 This project is licensed under the MIT License.
 
+Backend.env
+
+PORT=8000
+MONGODB_URL= "mongodb+srv://sunny824118_db_user:ICr42OAly6fXj8ZD@cluster0.7sjbcr4.mongodb.net"
+JWT_SECRET="KJHGSDIOKJOHDF"
+EMAIL="sunny824118@gmail.com"
+PASS="hynd ttnn bvzz rsof"
+CLOUDINARY_CLOUD_NAME="dhd9nwxb7"
+CLOUDINARY_API_KEY="533896657911982"
+CLOUDINARY_API_SECRET="aj02d_lmPHibMd9MgF3XRQSCF9Y"
+RAZORPAY_KEY_ID="rzp_test_RddK6ZgF0uiJ2i"
+RAZORPAY_KEY_SECRET="8YtHwEB1e98OcH1Z2uNclBnN"
+
+
+
+frontend.env
+
+
+VITE_FIREBASE_APIKEY="AIzaSyADw1hnhPOq_QvtWSYgSzzNEVsVwRYoIX8"
+VITE_GEOAPIKEY="e0722d9f994d441f9238d20db0d579a5"
+VITE_RAZORPAY_KEY_ID="rzp_test_RddK6ZgF0uiJ2i"
+
+ 
+ 
+
